@@ -1,0 +1,17 @@
+.color-navbar {
+  background-color: #FFE53B !important;
+  background-image: linear-gradient(270deg, #FFE53B 0%, #FF2525 74%);
+}
+
+.color-texto-marca {
+  color: #1e3d87 !important;
+}
+
+.margen-superior-main {
+  margin-top: 60px;
+}
+
+.texto-blanco .dropdown-toggle {
+  color: white !important;
+  font-weight: bold;
+}
